@@ -1,0 +1,15 @@
+{
+  "name": "1313-no-repeats",
+  "version": "1.0.0",
+  "description": "Write a function, named **unique**, which takes in an array of integers, and return a set which contains only the unique integers from that array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

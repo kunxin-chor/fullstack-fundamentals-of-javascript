@@ -1,0 +1,1 @@
+ Write a program that asks a user for an **integer variable X**, and then displays the **even numbers** from **X to 0**, with each number on its own line. 

@@ -1,0 +1,15 @@
+{
+  "name": "1311-even-values",
+  "version": "1.0.0",
+  "description": "Write a function, named **objValues**, which takes in an object and returns an array of values for  properties which length is 4 or more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "0517-the-number-is-5-now-add",
+  "version": "1.0.0",
+  "description": "Write a program that keeps asking the user to enter an integer until they enter a **-5**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

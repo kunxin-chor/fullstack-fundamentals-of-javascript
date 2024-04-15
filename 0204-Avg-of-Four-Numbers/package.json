@@ -1,0 +1,15 @@
+{
+  "name": "0204-avg-of-four-numbers",
+  "version": "1.0.0",
+  "description": "Write a program where the users can enter **four** numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

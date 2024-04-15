@@ -1,0 +1,1 @@
+Write a program to ask the user for an **integer X (assumed to be less than 25)**, and then use a **for** loop to print numbers from **25 to X.**

@@ -1,0 +1,15 @@
+{
+  "name": "1104-smaller-number",
+  "version": "1.0.0",
+  "description": "Store a function in the variable **x** that takes in two arguments and returns which number is **smaller**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

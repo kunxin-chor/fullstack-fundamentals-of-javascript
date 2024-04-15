@@ -1,0 +1,15 @@
+{
+  "name": "0716-extensions",
+  "version": "1.0.0",
+  "description": "Write a function that asks the user for a filename, such as \"dog.jpg\" or \"microsoft.doc\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

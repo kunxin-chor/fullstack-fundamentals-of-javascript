@@ -1,0 +1,15 @@
+{
+  "name": "1108-long-string",
+  "version": "1.0.0",
+  "description": "Write a function **runOver** that takes in an **array of string** as the first argument and a function named **overSix** as the second argument.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

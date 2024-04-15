@@ -1,0 +1,15 @@
+{
+  "name": "0702-the-fifth-index",
+  "version": "1.0.0",
+  "description": "Write a program which asks the user for a **string that is at least six characters long**, then print out the character at **index 5** of the string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

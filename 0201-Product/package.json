@@ -1,0 +1,15 @@
+{
+  "name": "0201-Product",
+  "version": "1.0.0",
+  "description": "Write two prompts to ask a user for two numbers. (Hint: you need one variable for each number)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

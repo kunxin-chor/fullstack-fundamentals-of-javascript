@@ -1,0 +1,15 @@
+{
+  "name": "0718-character-check",
+  "version": "1.0.0",
+  "description": "Write a code to test if a string has the '@' character in it and return **true** if it does or **false** if it does not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

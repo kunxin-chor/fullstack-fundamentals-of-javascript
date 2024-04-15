@@ -1,0 +1,15 @@
+{
+  "name": "1203-construction",
+  "version": "1.0.0",
+  "description": "Suppose it takes a certain takes **five days** to construct a wooden boat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

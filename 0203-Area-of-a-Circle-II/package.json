@@ -1,0 +1,15 @@
+{
+  "name": "0203-area-of-a-circle-ii",
+  "version": "1.0.0",
+  "description": "Write a program to which will allow the user to input a floating point number. Assign that number to a variable named _radius._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

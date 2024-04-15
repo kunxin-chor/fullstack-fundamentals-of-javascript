@@ -1,0 +1,1 @@
+Write a program to ask the user for an **integer variable X**, and then displays only the **even** numbers from 0 to X, starting with 0. 

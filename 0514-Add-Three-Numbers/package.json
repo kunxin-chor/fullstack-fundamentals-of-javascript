@@ -1,0 +1,16 @@
+{
+  "name": "0514-add-three-numbers",
+  "version": "1.0.0",
+  "description": "Write a program that asks the user for **3** numbers, and then display the total.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

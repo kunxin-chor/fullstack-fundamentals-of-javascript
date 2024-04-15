@@ -1,0 +1,15 @@
+{
+  "name": "0413-correct-login-ii",
+  "version": "1.0.0",
+  "description": "Write a function named **correctLogin** that checks if the user has entered the correct username and password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

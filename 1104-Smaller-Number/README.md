@@ -1,0 +1,1 @@
+Store a function in the variable **x** that takes in two arguments and returns which number is **smaller**.  

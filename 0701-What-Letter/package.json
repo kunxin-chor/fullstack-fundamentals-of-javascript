@@ -1,0 +1,15 @@
+{
+  "name": "0701-what-letter",
+  "version": "1.0.0",
+  "description": "The following program displays the index 2 of the string variable message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

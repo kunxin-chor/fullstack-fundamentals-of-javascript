@@ -1,0 +1,16 @@
+{
+  "name": "0312-bmi-calculator",
+  "version": "1.0.0",
+  "description": "Create a BMI calculator by writing a function with variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

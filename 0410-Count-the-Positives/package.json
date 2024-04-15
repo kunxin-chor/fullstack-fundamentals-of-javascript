@@ -1,0 +1,12 @@
+{
+  "name": "0410-count-the-positives",
+  "version": "1.0.0",
+  "description": "Writes a function, **countThePositives**, which takes in three integers arguments, and returns the number of integers which are **larger** than 0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

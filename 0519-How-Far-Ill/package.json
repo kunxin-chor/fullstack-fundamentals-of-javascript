@@ -1,0 +1,15 @@
+{
+  "name": "0519-how-far-ill",
+  "version": "1.0.0",
+  "description": "Suppose that you run X kilometres per day and every day you increase the distance ran by 1 KM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

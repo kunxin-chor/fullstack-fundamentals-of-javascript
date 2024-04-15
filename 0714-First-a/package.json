@@ -1,0 +1,15 @@
+{
+  "name": "0714-first-a",
+  "version": "1.0.0",
+  "description": "Write a program that asks the user for a **string**, and then display the **index of the first 'a'** in the string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

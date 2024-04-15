@@ -1,0 +1,15 @@
+{
+  "name": "0303-say-hello-ii",
+  "version": "1.0.0",
+  "description": "Modify the function named sayHello where it asks the user for one input and will print out \"Hello, <input>\", with <input> being replaced by whatever value of the variable the user has entered.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

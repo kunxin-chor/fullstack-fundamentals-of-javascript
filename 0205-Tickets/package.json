@@ -1,0 +1,15 @@
+{
+  "name": "0205-tickets",
+  "version": "1.0.0",
+  "description": "Suppose a movie ticket cost $9.00 for a child and $12.00 for an adult.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

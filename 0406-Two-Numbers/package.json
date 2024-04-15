@@ -1,0 +1,15 @@
+{
+  "name": "0406-two-numbers",
+  "version": "1.0.0",
+  "description": "Write a function, **largerOrSmaller**, that takes **two** integer arguments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

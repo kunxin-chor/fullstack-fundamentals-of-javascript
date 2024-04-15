@@ -1,0 +1,15 @@
+{
+  "name": "0810-adding-to-array-ii",
+  "version": "1.0.0",
+  "description": "Write a program that asks the user to type in a number and **add it to the front** of the list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

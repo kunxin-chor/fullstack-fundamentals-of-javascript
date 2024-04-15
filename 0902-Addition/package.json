@@ -1,0 +1,15 @@
+{
+  "name": "0902-addition",
+  "version": "1.0.0",
+  "description": "Change the following program so that the function calculate is a generator and then display out the result of the generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

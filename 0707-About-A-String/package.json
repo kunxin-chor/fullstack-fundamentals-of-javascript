@@ -1,0 +1,15 @@
+{
+  "name": "0707-about-a-string",
+  "version": "1.0.0",
+  "description": "Write a program to ask the user for **a string**, and then display the **length** of the string and the character at its **last index**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

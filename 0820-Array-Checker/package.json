@@ -1,0 +1,15 @@
+{
+  "name": "0820-array-checker",
+  "version": "1.0.0",
+  "description": "Write a function. named **arrayChecker**, which takes in an array and a second argument.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "0818-show-the-positives",
+  "version": "1.0.0",
+  "description": "Write a function, named **_positiveOutputOnly_**, which takes in a list of integers, and returns only the positive numbers in an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

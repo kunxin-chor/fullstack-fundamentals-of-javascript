@@ -1,0 +1,1 @@
+Write a program to ask the user for an **integer variable X**, and then displays the number from **1 to X**, each on its own line.  

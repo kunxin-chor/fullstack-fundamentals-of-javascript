@@ -1,0 +1,15 @@
+{
+  "name": "0614-how-big-is-the-square",
+  "version": "1.0.0",
+  "description": "The following program prints a 3 x 3 square using *.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

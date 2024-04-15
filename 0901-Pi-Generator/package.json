@@ -1,0 +1,15 @@
+{
+  "name": "0901-pi-generator",
+  "version": "1.0.0",
+  "description": "Print out the value returned by the following generator named **piGenerator**",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

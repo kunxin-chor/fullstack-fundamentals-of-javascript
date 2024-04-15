@@ -1,0 +1,1 @@
+Define an array, named **_firstArray_**, to have the numbers 1,3,5,7 and 9. Print out the array using console.log.

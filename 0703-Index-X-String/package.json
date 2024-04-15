@@ -1,0 +1,15 @@
+{
+  "name": "0703-index-x-string",
+  "version": "1.0.0",
+  "description": "Write a program which asks the user for a **string,** and then an **integer X**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

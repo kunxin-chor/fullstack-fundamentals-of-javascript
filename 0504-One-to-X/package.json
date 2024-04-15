@@ -1,0 +1,15 @@
+{
+  "name": "0504-one-to-x",
+  "version": "1.0.0",
+  "description": "Write a program to ask the user for an **integer variable X**, and then displays the number from **1 to X**, each on its own line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

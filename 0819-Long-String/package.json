@@ -1,0 +1,15 @@
+{
+  "name": "0819-long-string",
+  "version": "1.0.0",
+  "description": "Write a function, named **longerThanThree**, which takes in a list of strings, and only returns the strings that have more than 3 characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

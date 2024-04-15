@@ -1,0 +1,16 @@
+{
+  "name": "0311-bill-calculator",
+  "version": "1.0.0",
+  "description": "Complete the following functions: **_calculateGst, calculateServiceCharge_** and **_calculateTotalPrice_**, by replacing **???**  and inserting your own code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

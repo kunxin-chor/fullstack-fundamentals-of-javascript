@@ -1,0 +1,15 @@
+{
+  "name": "0711-without-the-first",
+  "version": "1.0.0",
+  "description": "Write a program that asks the user for a **string**, and then display the string **without its first character**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

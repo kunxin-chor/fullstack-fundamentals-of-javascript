@@ -1,0 +1,15 @@
+{
+  "name": "1205-second-digit",
+  "version": "1.0.0",
+  "description": "Ask the user to enter a number with at least 3 digits, and then display out the second digit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

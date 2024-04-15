@@ -1,0 +1,15 @@
+{
+  "name": "1107-even",
+  "version": "1.0.0",
+  "description": "Write a function named **isEven** and pass it to the **printEven** function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

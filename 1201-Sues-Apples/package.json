@@ -1,0 +1,15 @@
+{
+  "name": "1201-sues-apples",
+  "version": "1.0.0",
+  "description": "Sue has X apples and shares them with 4 other people.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "0823-paged",
+  "version": "1.0.0",
+  "description": "Imagine that you are doing an e-commerce website, and you have 20 product names stored in a list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

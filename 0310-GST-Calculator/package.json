@@ -1,0 +1,16 @@
+{
+  "name": "0310-gst-calculator",
+  "version": "1.0.0",
+  "description": "Complete the following functions: **calculateGst** and **calculateTotalPrice**, inserting your own code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

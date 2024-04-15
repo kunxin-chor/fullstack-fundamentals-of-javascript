@@ -1,0 +1,15 @@
+{
+  "name": "0405-is-it-positive",
+  "version": "1.0.0",
+  "description": "Write a function, **posOrNeg**, that takes an integer **argument.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

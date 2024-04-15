@@ -1,0 +1,15 @@
+{
+  "name": "0404-pass-or-fail",
+  "version": "1.0.0",
+  "description": "Write a function, **grade** which takes in an integer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

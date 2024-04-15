@@ -1,0 +1,15 @@
+{
+  "name": "0706-are-we-the-same",
+  "version": "1.0.0",
+  "description": "Write a program to ask the user for two strings, and then compare if they are the same.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

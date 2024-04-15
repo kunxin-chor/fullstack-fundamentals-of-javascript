@@ -1,0 +1,12 @@
+{
+  "name": "0801-array",
+  "version": "1.0.0",
+  "description": "Define an array, named **_firstArray_**, to have the numbers 1,3,5,7 and 9. Print out the array using console.log.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

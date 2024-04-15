@@ -1,0 +1,15 @@
+{
+  "name": "0822-section-of-array",
+  "version": "1.0.0",
+  "description": "Write a function, named **threeToFive**, that takes in a list and returns elements from index 3 to 5 as a **new list**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

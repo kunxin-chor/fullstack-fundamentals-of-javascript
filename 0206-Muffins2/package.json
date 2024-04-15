@@ -1,0 +1,15 @@
+{
+  "name": "0206-muffins2",
+  "version": "1.0.0",
+  "description": "An muffin costs _X_ dollars and _Y_ cents.The user wants to buy Z muffins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

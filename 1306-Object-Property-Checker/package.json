@@ -1,0 +1,16 @@
+{
+  "name": "1306-object-property-checker",
+  "version": "1.0.0",
+  "description": "Write a function, named **objChecker**, which given an object and a property as arguments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {}
+}

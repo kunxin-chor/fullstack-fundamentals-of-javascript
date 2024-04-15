@@ -1,0 +1,1 @@
+Store a function in variable **m** which takes in two arguments, multiply them and return the result.  

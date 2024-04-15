@@ -1,0 +1,15 @@
+{
+  "name": "0104-taxes",
+  "version": "1.0.0",
+  "description": "The corporate tax of a certain country is **9%**. Rochelle earns **_$450,000_** this year. How much tax is she required to pay?",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

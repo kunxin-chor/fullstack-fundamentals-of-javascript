@@ -1,0 +1,15 @@
+{
+  "name": "0811-number-array",
+  "version": "1.0.0",
+  "description": "Write a program that asks the user to enter **5 numbers** into an array - **_numbersArray_**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

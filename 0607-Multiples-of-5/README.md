@@ -1,0 +1,1 @@
+Write a program that displays the **first five multiples of 5**.

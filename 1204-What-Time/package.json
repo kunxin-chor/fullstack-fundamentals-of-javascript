@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "1204-what-time",
+  "description": "Ask the user to enter the time in the form of X hour and Y minutes in the 24-hour format (for example if X = 3 and Y = 15, then it's 3.15).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

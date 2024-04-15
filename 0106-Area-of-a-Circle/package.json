@@ -1,0 +1,15 @@
+{
+  "name": "0106-area-of-a-circle",
+  "version": "1.0.0",
+  "description": "The area of a circle is calculated using the formula:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

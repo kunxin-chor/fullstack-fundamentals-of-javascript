@@ -1,0 +1,15 @@
+{
+  "name": "1310-values-array",
+  "version": "1.0.0",
+  "description": "Write a function, named **objValues1**, which takes in an object as an argument, and return an array of all the values only. For this function, do not use Object.values().",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

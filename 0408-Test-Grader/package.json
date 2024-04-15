@@ -1,0 +1,15 @@
+{
+  "name": "0408-test-grader",
+  "version": "1.0.0",
+  "description": "Write a function, **testGrader**, which takes in one **integer argument**, which represents the score the user has achieved in a test.  The function will **return** the letter grade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

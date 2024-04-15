@@ -1,0 +1,1 @@
+Change the following program so that the function calculate is a generator and then display out the result of the generator. 

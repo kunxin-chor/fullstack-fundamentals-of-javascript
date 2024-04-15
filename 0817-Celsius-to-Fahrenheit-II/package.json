@@ -1,0 +1,15 @@
+{
+  "name": "0817-celsius-to-fahrenheit-ii",
+  "version": "1.0.0",
+  "description": "Write a program that asks the user to **key in temperatures in celsius until a '0' is entered**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

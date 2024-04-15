@@ -1,0 +1,15 @@
+{
+  "name": "0103-donuts",
+  "version": "1.0.0",
+  "description": "A donut costs $1.50.Mary bought 20 donuts. How much is the total?",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}

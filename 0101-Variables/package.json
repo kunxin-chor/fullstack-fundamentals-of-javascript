@@ -1,0 +1,15 @@
+{
+  "name": "0101-variables",
+  "version": "1.0.0",
+  "description": "Assign the value 53 to a variable named p",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
